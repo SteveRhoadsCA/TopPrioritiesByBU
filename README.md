@@ -9,11 +9,14 @@ This cardboard should allow the user to:
 5) Filter based on two other drop-down options:
 
    5.1) PortfolioItem State: drop-down multi-select preferred (one of the preferred choices has 3 State selections, the other has 1)
-   
+
    5.2) A custom drop-down list value: Compliance. (Blank, Yes, No) (for some reason, not a Boolean)
-   
+
    5.3) What does it take to enable "Save[d] Views"?
 
 6) We can hard-code the card fields, but we'd also like to be able to "Show Fields" and then be able so Save (as part of saving the filter expressions) the column selections.
 7) The view can be read-only, but needs to be able to open the detail page for drill-down into details.
 8) The Cardboard never needs to be displayed as a list. Always as a CardBoard.
+
+NOTES:
+The columns of the Cardboard really represent the BUs (Business Units). Unfortunately there is no "BU" field on a PortfolioItem. There is a project field, but the value of the project field might not be easily recognizable as belonging to a particular parent BU.
