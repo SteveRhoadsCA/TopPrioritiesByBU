@@ -1,5 +1,5 @@
-# TopPrioritiesByBusinesUnit
-A Rally Cardboard where the columns are parent folders in the project hierarchy, and the cards are the top X portfolio items for each family of folders.
+# TopPrioritiesByBusinessUnit
+A Rally Cardboard where the columns are direct children folders in the project hierarchy, and the cards are the top X portfolio items for each family of folders.
 
 This cardboard should allow the user to:
 1) Set the starting project folder - and the columns will be driven by the direct children of that choice.
