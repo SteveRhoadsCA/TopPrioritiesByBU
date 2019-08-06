@@ -1,6 +1,6 @@
 {
-    "name": "TopPrioritiesByBU",
-    "sdk": "2.1",
-    "className": "TopPrioritiesByBU",
-    "story": ""
+  "name": "Top Priorities By BU",
+  "sdk": "2.1",
+  "className": "TopPrioritiesByBU",
+  "story": ""
 }
