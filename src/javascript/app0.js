@@ -100,7 +100,7 @@ Ext.define("TopPriorities", {
       });
     },
     _loadAStoreWithAPromise: function(model_name, model_fields){
-      //console.log("1. Model_name=",model_name, " Fields: ", model_fields);
+      console.log("1. Model_name=",model_name, " Fields: ", model_fields);
 
         var deferred = Ext.create('Deft.Deferred');
         var me = this;
