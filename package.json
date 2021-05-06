@@ -14,7 +14,7 @@
     "grunt-contrib-watch": "^1.1.0",
     "grunt-templater": "git://github.com/rockwood/grunt-templater.git",
     "request": "^2.88.0",
-    "underscore": "1.4.4",
+    "underscore": "1.12.1",
     "username": "2.1.0"
   }
 }
